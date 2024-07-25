@@ -19,20 +19,21 @@ This project implements a shopping basket system for Acme Widget Co's sales syst
 ## Installation and Usage
 
 1. Clone the repo:
-  ```
-  git clone https://github.com/mythofmidas/AcmeWidgetCo-PHP.git
-  ```
-2. Reference exam.php
+   ```
+   git clone https://github.com/mythofmidas/AcmeWidgetCo-PHP.git
+   ```
+   
+3. Reference exam.php
    Contains some exam code.
 
-3. Install php
+4. Install php
    If you not installed yet, download on here.
    [Download PHP](https://www.php.net/downloads/)
 
-4. Setting up PHP environment on your PC
+5. Setting up PHP environment on your PC
    [Reference Here](https://www.geeksforgeeks.org/how-to-install-php-in-windows-10/)
 
-5. When you are ready, run php.
+6. When you are ready, run php.
    Open a command prompt in the root directory and run this command.
    ```
    run backet.php
