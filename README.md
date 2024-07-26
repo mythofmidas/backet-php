@@ -36,7 +36,7 @@ This project implements a shopping basket system for Acme Widget Co's sales syst
 6. When you are ready, run php.
    Open a command prompt in the root directory and run this command.
    ```
-   run backet.php
+   run basket.php
    ```
 
 Enjoy yourself!!!
