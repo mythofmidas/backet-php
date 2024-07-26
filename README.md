@@ -20,7 +20,7 @@ This project implements a shopping basket system for Acme Widget Co's sales syst
 
 1. Clone the repo:
    ```
-   git clone https://github.com/mythofmidas/AcmeWidgetCo-PHP.git
+   https://github.com/mythofmidas/basket-php.git
    ```
    
 3. Reference exam.php
